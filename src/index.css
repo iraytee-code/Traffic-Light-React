@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+
+.traffic-light {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  border: 10px solid black;
+  border-radius: 50%;
+}
+
+.timer {
+  display: none;
+}
